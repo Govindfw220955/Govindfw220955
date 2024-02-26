@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Govind Saini</h1>
-<div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png](https://drive.google.com/file/d/1DXMAIEjuzparO_xibkxEcZR0XXynD0R3/view?usp=sharing)"> </div>
+<div align="center"> <img src="https://drive.google.com/file/d/1DXMAIEjuzparO_xibkxEcZR0XXynD0R3/view?usp=drive_link"> </div>
 <h3 align="center">I'm an aspiring Algorithm developer from Delhi and I love to code.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-![20231125_012817](https://github.com/Govindfw220955/Govindfw220955/assets/79481087/bf661412-3d17-4ba5-a7c5-bfac23172cfa)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindfw220955&label=Profile%20views&color=0e75b6&style=flat" alt="govindfw220955" /> </p>
 
