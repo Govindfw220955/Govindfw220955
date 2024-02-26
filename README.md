@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govindfw220955&layout=compact"" alt="govindfw220955" /></p>
 
-## My Git Contribution
+<h2> My Git Contribution </h2> 
 ![snake gif](https://github.com/Govindfw220955/Govindfw220955/blob/output/github-contribution-grid-snake.gif)
