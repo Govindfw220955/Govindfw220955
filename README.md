@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Saini</h1>
-<div align="right"> <img src="https://github.com/Govindfw220955/Govindfw220955/blob/main/banner.png"> </div>
+
 <h3 align="center">I'm an aspiring Algorithm developer from Delhi and I love to code.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
